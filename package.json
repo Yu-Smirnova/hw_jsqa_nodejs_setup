@@ -1,0 +1,30 @@
+{
+  "name": "jsqa2",
+  "version": "1.0.0",
+  "description": "jsaqa homework 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yu-Smirnova/hw_jsqa_nodejs_setup.git"
+  },
+  "keywords": [
+    "jsaqa",
+    "js",
+    "homework"
+  ],
+  "author": "yu-smirnova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yu-Smirnova/hw_jsqa_nodejs_setup/issues"
+  },
+  "homepage": "https://github.com/Yu-Smirnova/hw_jsqa_nodejs_setup#readme",
+  "devDependencies": {
+    "eslint": "^8.1.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "2.4.1"
+  }
+}
